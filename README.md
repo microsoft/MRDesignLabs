@@ -1,6 +1,6 @@
 # Mixed Realtiy Design Labs
 
-This repo is to for the Microsoft's Windows Mixed Reality Design team to publish examples and explorations. The goal is to inspire creators and help them to build Mixed Reality experiences. Through this repo, we will share sample app projects that covers various types of common controls and patterns in Mixed Reality.
+This repo is where Microsoft's Windows Mixed Reality Design team publishes examples and explorations. The goal is to inspire creators and help them to build Mixed Reality experiences. We share sample app projects here that demonstrate how to use various types of common controls and patterns in Mixed Reality.
 
 # Contributing
 
