@@ -1,3 +1,5 @@
+![](https://github.com/Microsoft/MRDesignLabs_Unity/blob/master/External/ReadMeImages/MRDL_Logo_Rev.png)
+
 # Mixed Reality Design Labs
 This repo is where Microsoft's Windows Mixed Reality Design team publishes examples and explorations. The goal is to inspire creators and help them to build Mixed Reality experiences. We share sample app projects here that demonstrate how to use various types of common controls and patterns in Mixed Reality. If you are looking for official toolkit, please use **[Mixed Reality Toolkit](https://github.com/Microsoft/MixedRealityToolkit-Unity)**
 
